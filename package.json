@@ -25,6 +25,7 @@
         "minimist": "1.2.8",
         "mongodb": "4.14.0",
         "msgpack-js": "0.3.0",
+        "multer": "^1.4.5-lts.1",
         "mx-connect": "1.4.4",
         "nodemailer": "6.9.2",
         "npmlog": "7.0.1",
