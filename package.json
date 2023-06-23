@@ -29,7 +29,7 @@
         "multer": "^1.4.5-lts.1",
         "mx-connect": "1.4.4",
         "nodemailer": "6.9.2",
-        "npmlog": "7.0.1",
+        "npmlog": "github:RichiMaulana/npmlog",
         "prom-client": "14.2.0",
         "punycode": "2.3.0",
         "request": "2.88.2",
